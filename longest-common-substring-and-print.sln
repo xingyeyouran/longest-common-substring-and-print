@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "longest-common-substring-and-print", "longest-common-substring-and-print\longest-common-substring-and-print.vcxproj", "{3B8A88F4-7305-4B8F-99E0-DA8707EE3A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B8A88F4-7305-4B8F-99E0-DA8707EE3A52}.Debug|x64.ActiveCfg = Debug|x64
+		{3B8A88F4-7305-4B8F-99E0-DA8707EE3A52}.Debug|x64.Build.0 = Debug|x64
+		{3B8A88F4-7305-4B8F-99E0-DA8707EE3A52}.Debug|x86.ActiveCfg = Debug|Win32
+		{3B8A88F4-7305-4B8F-99E0-DA8707EE3A52}.Debug|x86.Build.0 = Debug|Win32
+		{3B8A88F4-7305-4B8F-99E0-DA8707EE3A52}.Release|x64.ActiveCfg = Release|x64
+		{3B8A88F4-7305-4B8F-99E0-DA8707EE3A52}.Release|x64.Build.0 = Release|x64
+		{3B8A88F4-7305-4B8F-99E0-DA8707EE3A52}.Release|x86.ActiveCfg = Release|Win32
+		{3B8A88F4-7305-4B8F-99E0-DA8707EE3A52}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F312EAA7-7D82-4174-9097-9D9A433A4B23}
+	EndGlobalSection
+EndGlobal
